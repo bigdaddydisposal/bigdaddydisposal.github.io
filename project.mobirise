@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Got Bulk?",
+        "meta_descr": "Big Daddy Disposal\nTrash and Waste Removal Service\nWorcester, MA",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -556,8 +556,8 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
@@ -635,7 +635,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIG DADDY DISPOSAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://bigdaddydisposal.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIG DADDY DISPOSAL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-e"
         }
