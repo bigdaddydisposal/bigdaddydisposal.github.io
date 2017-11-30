@@ -319,7 +319,7 @@
           "_params": {
             "showBullets": false,
             "fullWidth": false,
-            "spacing": "4",
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": "2",
             "filterBgColor": false,
@@ -387,30 +387,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/before-after-6-1920x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/before-after-6-1920x960-800x400.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/before-after-5-1920x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/before-after-5-1920x960-800x400.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/before-after-9-1920x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/before-after-9-1920x960-800x400.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
