@@ -453,17 +453,21 @@ h6,
   text-align: left;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
-  font-size: 72px;
+  font-size: 80px;
 }
 #header2-d .mbr-section-text B {
   font-size: 36px;
+}
+#header2-d .mbr-section-text P {
+  font-size: 60px;
+  color: #c1c1c1;
 }
 #features6-5 H5 {
   text-align: center;
   color: #ffffff;
 }
 #features6-5 DIV {
-  color: #ffffff;
+  color: #6e6e6e;
   font-family: 'Raleway', sans-serif;
   font-size: 32px;
   text-align: center;
@@ -471,19 +475,21 @@ h6,
 #features6-5 H4 {
   font-size: 46px;
   text-align: center;
+  color: #ffffff;
 }
 #features6-5 SPAN {
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 32px;
+  color: #a1a1a1;
 }
 #testimonials3-b .mbr-section-title {
-  color: #efefef;
+  color: #000000;
 }
 #testimonials3-b .mbr-author-name {
   color: #ccc;
 }
 #testimonials3-b .card-footer > div {
-  color: #ffffff;
+  color: #000000;
   font-size: 36px;
 }
 #contacts1-c SPAN {
@@ -493,31 +499,33 @@ h6,
 }
 #contacts1-c P {
   font-size: 18px;
-  text-align: left;
+  text-align: center;
+  color: #ffffff;
 }
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-e .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #ext_menu-e .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-e .close-icon::before,
 #ext_menu-e .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-e .link,
 #ext_menu-e .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-e .link {
-  font-size: 0.85rem;
+  font-size: 1.15rem;
 }
 #ext_menu-e .dropdown-item,
 #ext_menu-e .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 1.245rem;
 }
 #ext_menu-e .link:hover,
 #ext_menu-e .dropdown-item:hover,
@@ -542,7 +550,7 @@ h6,
   background: #6e6e6e;
 }
 #ext_menu-e .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-e .bg-color.transparent.opened .link {

@@ -70,7 +70,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -98,7 +98,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "showArrow": false,
             "imageSize": "39",
@@ -139,8 +139,8 @@
               "size": 250
             }
           },
-          "title": "Big Daddy Disposal",
-          "text": "<p>Proudly Serving</p><p>Worcester County, MA</p>",
+          "title": "BIG DADDY DISPOSAL",
+          "text": "<p>WORCESTER, MA</p><p>508.981.3488</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts1-c\" data-toolbar=\"-mbrBtnMove\"><strong>CONTACT</strong></a>",
           "_tags": [
             "Theme"
@@ -162,22 +162,26 @@
               "color": "#ffffff",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "72px"
+              "font-size": "80px"
             },
             ".mbr-section-text B": {
               "font-size": "36px"
+            },
+            ".mbr-section-text P": {
+              "font-size": "60px",
+              "color": "#c1c1c1"
             }
           }
         },
         {
           "_inherit": "features3",
           "_params": {
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
@@ -260,10 +264,10 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "REMOVAL &amp; DISPOSAL<br><br>",
+          "title1": "REMOVAL &amp; DISPOSAL<br>",
           "subtitle1": "<div><span style=\"background-color: initial;\">HOUSEH</span><span style=\"background-color: initial;\">OLD TRASH</span><br></div><div><span style=\"font-style: normal;\">FURNITURE</span></div><div><span style=\"font-style: normal;\">TELEVISIONS</span></div><div><span style=\"font-style: normal;\">CONSTRUCTION DEBRIS</span></div>",
           "caption1": "",
-          "title2": "CLEAN-OUTS<br><br>",
+          "title2": "CLEAN-OUTS<br>",
           "subtitle2": "<span style=\"font-style: normal;\">BASEMENTS &amp; ATTICS\n</span><div><span style=\"font-style: normal;\">GARAGES\n</span></div><div><span style=\"font-style: normal;\">STORAGE UNITS\n</span></div><div><span style=\"font-style: normal;\">REAL ESTATE PROPERTIES</span></div>",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
@@ -292,7 +296,7 @@
               "color": "#ffffff"
             },
             "DIV": {
-              "color": "#ffffff",
+              "color": "#6e6e6e",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "32px",
@@ -300,12 +304,14 @@
             },
             "H4": {
               "font-size": "46px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "SPAN": {
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#a1a1a1"
             }
           }
         },
@@ -467,13 +473,13 @@
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".mbr-author-name": {
               "color": "#ccc"
             },
             ".card-footer > div": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "36px"
             }
           },
@@ -518,7 +524,7 @@
             {
               "authorName": "Janet C.",
               "authorBio": "User",
-              "text": "<p>“You need someone who clean out your basement, attic, a house or just pickup a bunch of junk I recommend Peter Pellegrino. He removed a lot of unwanted junk from my house today and I couldn't of been happier!! On time, efficient, reasonable, left no mess and a great guy!!  👍🏻</p>",
+              "text": "<p>“You need someone who clean out your basement, attic, a house or just pickup a bunch of junk I recommend Peter Pellegrino. He removed a lot of unwanted junk from my house today and I couldn't of been happier!! On time, efficient, reasonable, left no mess and a great guy!!&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -532,7 +538,7 @@
             {
               "authorName": "Kathy W.",
               "authorBio": "User",
-              "text": "My ugly shed is gone thanks to Peter Pellegrino !! If anyone has the need for a professional, efficient and extremely strong man to help with a daunting task - I definitely recommend him. Brenna Willson and I would have never gotten it done due to our fear of critters🤢 soon, grandma's yard will be the place to be - pool/hot tub/mega sand box ... decisions, decisions ...",
+              "text": "My ugly shed is gone thanks to Peter Pellegrino !! If anyone has the need for a professional, efficient and extremely strong man to help with a daunting task - I definitely recommend him. Brenna Willson and I would have never gotten it done due to our fear of critters soon, grandma's yard will be the place to be - pool/hot tub/mega sand box ... decisions, decisions ...",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -592,23 +598,24 @@
             },
             "P": {
               "font-size": "18px",
-              "text-align": "left"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           }
         },
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#6e6e6e",
-            "fontSize": "0.85",
+            "fontSize": "1.15",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-d\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-2\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-c\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-b\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -620,22 +627,23 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -650,7 +658,7 @@
               "background": "#6e6e6e"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -678,7 +686,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://bigdaddydisposal.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIG DADDY DISPOSAL</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://bigdaddydisposal.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIG DADDY DISPOSAL</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-e"
         }
