@@ -319,7 +319,7 @@
           "_params": {
             "showBullets": false,
             "fullWidth": false,
-            "spacing": "1",
+            "spacing": "4",
             "paddingTop": 0,
             "paddingBottom": "2",
             "filterBgColor": false,
@@ -334,17 +334,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/before-after-1-1920x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/before-after-1-1920x960-800x400.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/before-after-2-1920x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/before-after-2-1920x960-800x400.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -424,18 +413,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/before-after-9-1920x960-800x400.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/before-after-10-1920x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/before-after-10-1920x960-800x400.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -457,7 +435,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/before-after-12-1920x960-800x400.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -491,7 +469,7 @@
             "showBio": false,
             "count": "3",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/front-greybg-2000x745.jpg",
             "parallax": true,
