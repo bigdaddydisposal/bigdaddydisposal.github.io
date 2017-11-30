@@ -554,7 +554,7 @@
             },
             "P": {
               "font-size": "18px",
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff"
             }
           }
