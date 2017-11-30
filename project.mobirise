@@ -168,7 +168,7 @@
               "font-size": "36px"
             },
             ".mbr-section-text P": {
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#c1c1c1"
             }
           }
