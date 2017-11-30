@@ -483,13 +483,13 @@ h6,
   color: #a1a1a1;
 }
 #testimonials3-b .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 #testimonials3-b .mbr-author-name {
   color: #ccc;
 }
 #testimonials3-b .card-footer > div {
-  color: #000000;
+  color: #efefef;
   font-size: 36px;
 }
 #contacts1-c SPAN {
@@ -510,15 +510,15 @@ h6,
   font-size: 20px;
 }
 #ext_menu-e .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-e .close-icon::before,
 #ext_menu-e .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #ext_menu-e .link,
 #ext_menu-e .dropdown-item {
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-e .link {
   font-size: 1.15rem;
@@ -550,7 +550,7 @@ h6,
   background: #6e6e6e;
 }
 #ext_menu-e .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #ext_menu-e .bg-color.transparent.opened .link {
