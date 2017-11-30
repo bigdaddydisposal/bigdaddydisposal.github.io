@@ -311,11 +311,11 @@
         },
         {
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": false,
             "spacing": "1",
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "2",
             "filterBgColor": false,
             "bgColor": "#000000",
             "showText": false,
